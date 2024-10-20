@@ -242,30 +242,3 @@ footer small {
 
 
 
-/* Not Related To The Project */
-
-.footer {
-    background-color: #222;
-    color: #fff;
-    font-size: 14px;
-    bottom: 0;
-    position: fixed;
-    left: 0;
-    right: 0;
-    text-align: center;
-    z-index: 999;
-}
-
-.footer p {
-    margin: 5px 0;
-}
-
-.footer i {
-    color: red;
-    margin: 0 10px;
-}
-
-.footer a {
-    color: greenyellow;
-    text-decoration: none;
-}
